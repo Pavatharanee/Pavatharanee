@@ -41,4 +41,6 @@ To continuously improve my technical skills, build meaningful projects, and prep
 
 ## 📫 Connect With Me
 
-- GitHub: [Pavatharanee](https://github.com/pavatharanee)
+- Linkedin: https://www.linkedin.com/in/pavatharanee-d-3abba5328
+- Gmail : Official - sec2ec157@sairamtap.edu.in
+-         Personal - tharanee07@gmail.com
