@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Pavatharanee
 
-<!--
-**Pavatharanee/Pavatharanee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics and Communication Engineering Student  
+💻 Aspiring Software & Embedded Systems Engineer  
+🌱 Currently learning C, Java, Git & GitHub
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an ECE student passionate about learning technology and building practical projects.
+
+I enjoy exploring both software and electronics, and I'm currently focusing on strengthening my programming and problem-solving skills for placements.
+
+## 🛠️ Skills
+
+- C Programming
+- Java
+- HTML
+- CSS
+- Git & GitHub
+- Digital Electronics
+- Embedded Systems
+
+## 🚀 Projects
+
+- 🔬 Non-Invasive Glucose Estimation
+- ☀️ Solar Panel Tracking System
+- ⚡ MCES Project
+- 🏭 NLC Power Station Internship
+
+## 📚 Currently Learning
+
+- C Programming & Problem Solving
+- Java
+- Git & GitHub
+- Digital Electronics
+- Web Development
+
+## 🎯 Goals
+
+To continuously improve my technical skills, build meaningful projects, and prepare myself for a successful career in the technology industry.
+
+## 📫 Connect With Me
+
+- GitHub: [Pavatharanee](https://github.com/pavatharanee)
